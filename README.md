@@ -50,6 +50,22 @@ Concepts Learned:
 * Brute Force Approach
 
 ---
+Day 3 - Strings and Array Patterns
+
+Problems Solved:
+
+- Valid Palindrome
+- Missing Number
+- Merge Sorted Arrays
+
+Concepts Learned:
+
+- Two Pointer Technique
+- String Traversal
+- Character Comparison using charAt()
+- Mathematical Sum Formula
+- Merge Technique
+- Time and Space Complexity Analysis
 
 ## 🛠️ Language
 
