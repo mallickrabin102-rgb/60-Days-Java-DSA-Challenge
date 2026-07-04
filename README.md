@@ -84,7 +84,43 @@ Concepts Learned:
 
 ## 🔥 Current Progress
 
-Completed: 2/60 Days
+# Day 4 - Linked List Basics
+
+Today I started learning Linked Lists in Java. I understood how nodes are connected and how the head node works. I also learned how to traverse a linked list and perform basic insertion and deletion operations.
+
+### Topics Covered
+- Creating a Node
+- Traversing a Linked List
+- Insert at Beginning
+- Insert at End
+- Delete at Beginning
+
+### What I Learned
+- Difference between `head` and `temp`
+- How node references work
+- Why traversal is needed
+- Time complexity of basic operations
+
+This was my first step towards mastering Linked Lists.
+
+# Day 5 - Linked List Operations
+
+Today I continued practicing Linked Lists by implementing more operations. I focused on deletion, counting nodes, and searching for an element.
+
+### Topics Covered
+- Delete at End
+- Count Nodes
+- Search an Element
+
+### What I Learned
+- Handling empty and single-node linked lists
+- Traversing the list to perform different operations
+- Returning values from methods
+- Writing cleaner and reusable code
+
+I feel much more comfortable with Linked List basics now. Next, I'll learn how to reverse a linked list and solve more interview-level problems.
+
+Completed: 5/60 Days
 
 ---
 
